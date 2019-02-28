@@ -1,3 +1,3 @@
 !!!include
-name = test_srt.md
-repo = "https://github.com/abom/test_custom_md"
+name = "test_srt.md"
+repo = "https://github.com/abom/test_custom_md/tree/master/docs"
