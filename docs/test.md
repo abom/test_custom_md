@@ -13,6 +13,4 @@ name = "test_src.md"
 
 actual content
 
-()[]
-
 [circle template](threefoldfoundation:info_foundation(development):/docs/circles/circle_template.md)
