@@ -1,5 +1,5 @@
 ```!!!include
-repo = "https://github.com/abom/test_custom_md/tree/master/docs"
+repo = "abom:test_custom_md(master):/docs"
 name = "test_src.md"
 ```
 
