@@ -3,6 +3,13 @@ repo = "abom:test_custom_md(master):/docs"
 name = "test_src.md"
 ```
 
+```python
+!!!include
+name = "Fixer.py"
+repo = "https://github.com/threefoldtech/jumpscaleX/tree/master/Jumpscale/tools/fixer"
+docstring = "write_changes"
+```
+
 
 ```!!!dot
  graph graphname {
