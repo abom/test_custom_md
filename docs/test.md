@@ -1,25 +1,9 @@
-
-
 ```
-!!!include
-name = "Fixer.py"
-repo = "https://github.com/threefoldtech/jumpscaleX/tree/master/Jumpscale/tools/fixer"
-docstring = "write_changes"
-```
-
-```
-!!!include
-repo = "abom:test_custom_md(master):/docs"
-name = "test_src.md"
-start = "This is a paragraph"
-paragraph = True
-```
-
-```!!!dot
- graph graphname {
-     a -- b -- c;
-     b -- d;
- }
+!!!dot
+graph graphname {
+    a -- b -- c;
+    b -- d;
+}
 ```
 
 actual content

@@ -4,18 +4,13 @@ title = "hello"
 
 Hiiii how are you
 
+## head
 
-[b] (test.md)
+[b](test.md)
 
 
-   This is a paragraph
-You need to include this para, para, para
+   This is a paragraph !!A!!
+You need to include this para, para, para !!A!!
 
-   A new para,
+   A new para, !!B!!
 This is a new para
-
-
-You can test this by doing the following:
-```
-...
-```
