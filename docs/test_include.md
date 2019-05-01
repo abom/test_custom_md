@@ -20,3 +20,6 @@
 !!!include("abom:test_custom_md:test_src.md!A")
 
 !!!include("https://github.com/abom/test_custom_md/tree/master/docs/test_src.md")
+
+!!!include("https://github.com/threefoldfoundation/info_grid/blob/master/docs/concepts/cloud_units.md")
+
