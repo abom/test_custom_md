@@ -1,7 +1,7 @@
 ```
 !!!dot
 graph graphname {
-    a -- b -- c;
+    a -- b;
     b -- d;
 }
 ```
