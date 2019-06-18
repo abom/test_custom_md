@@ -5,3 +5,5 @@
 
 
 ![SVG Image](POBSoverview.svg?sanitize=true)
+
+[SVG Image](POBSoverview.svg?sanitize=true)
